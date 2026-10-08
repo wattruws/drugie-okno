@@ -12,6 +12,7 @@
         WindowStartupLocation="CenterScreen"
         Background="#F4F6F8">
     <TextBlock Text="Warsztat"
+               FontSize="32"
                HorizontalAlignment="Center"
                VerticalAlignment="Center" />
 </Window>
