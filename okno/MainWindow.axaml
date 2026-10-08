@@ -16,6 +16,7 @@
                FontWeight="SemiBold"
                Foreground="#243B53"
                TextAlignment="Center"
+               TextWrapping="Wrap"
                HorizontalAlignment="Center"
                VerticalAlignment="Center" />
 </Window>
