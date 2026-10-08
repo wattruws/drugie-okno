@@ -17,6 +17,7 @@
                Foreground="#243B53"
                TextAlignment="Center"
                TextWrapping="Wrap"
+               LineHeight="40"
                MaxWidth="600"
                Margin="16"
                HorizontalAlignment="Center"
