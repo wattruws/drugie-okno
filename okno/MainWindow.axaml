@@ -7,7 +7,8 @@
         Title="Warsztat"
         Width="800"
         Height="450"
-        MinWidth="400">
+        MinWidth="400"
+        MinHeight="250">
     <TextBlock Text="Warsztat"
                HorizontalAlignment="Center"
                VerticalAlignment="Center" />
