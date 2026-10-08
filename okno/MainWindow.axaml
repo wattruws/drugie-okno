@@ -9,7 +9,8 @@
         Height="450"
         MinWidth="400"
         MinHeight="250"
-        WindowStartupLocation="CenterScreen">
+        WindowStartupLocation="CenterScreen"
+        Background="#F4F6F8">
     <TextBlock Text="Warsztat"
                HorizontalAlignment="Center"
                VerticalAlignment="Center" />
