@@ -18,6 +18,7 @@
                TextAlignment="Center"
                TextWrapping="Wrap"
                MaxWidth="600"
+               Margin="16"
                HorizontalAlignment="Center"
                VerticalAlignment="Center" />
 </Window>
