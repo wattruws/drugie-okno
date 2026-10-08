@@ -17,6 +17,7 @@
                Foreground="#243B53"
                TextAlignment="Center"
                TextWrapping="Wrap"
+               MaxWidth="600"
                HorizontalAlignment="Center"
                VerticalAlignment="Center" />
 </Window>
