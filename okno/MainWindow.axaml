@@ -6,7 +6,8 @@
         x:Class="okno.MainWindow"
         Title="Warsztat"
         Width="800"
-        Height="450">
+        Height="450"
+        MinWidth="400">
     <TextBlock Text="Warsztat"
                HorizontalAlignment="Center"
                VerticalAlignment="Center" />
