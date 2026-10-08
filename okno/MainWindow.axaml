@@ -8,7 +8,8 @@
         Width="800"
         Height="450"
         MinWidth="400"
-        MinHeight="250">
+        MinHeight="250"
+        WindowStartupLocation="CenterScreen">
     <TextBlock Text="Warsztat"
                HorizontalAlignment="Center"
                VerticalAlignment="Center" />
