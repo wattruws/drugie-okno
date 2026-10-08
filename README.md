@@ -1,0 +1,1 @@
+1 zmiana dotyczyla nazwy okna, diff mial 1 linijke i wszystko rozumeim
